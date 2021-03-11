@@ -8,7 +8,7 @@ Elasticsearch 7.6.1
 
 ## Hub
 
-https://hub.docker.com/r/xiting/elasticsearch-bitbucket-pipeline
+https://hub.docker.com/r/amitchoudhary/elasticsearch-bitbucket-pipeline
 
 ## Example
 
